@@ -1,0 +1,334 @@
+li
+{display:inline-block;}
+
+
+#header {
+    background-image: url("h-background.png");
+    background-repeat: no-repeat;
+}
+
+#header li
+	{font-family:Arial;}
+	 
+#head-text
+	{font-size: 40px;
+	text-align: center;}
+	
+#u-logo-text
+	{text-align: center;
+	 font-size: 25px;
+	 font-family:Arial;}
+
+
+	
+#bus
+	{border:solid}
+	
+#bus
+	{width: 279px;
+	 height: 420;}
+	 
+#bus
+	{padding-bottom: 10px;
+	margin-right: 20px;}
+	
+#bus h3
+	{padding-left: 10px}
+	
+#bus p
+	{padding-left: 10px}
+	
+#bus a
+	{padding-left: 10px}
+	
+
+	
+#tube
+	{border:solid}
+	
+#tube
+	{width: 279px;
+	 height: 420;}
+	 
+#tube
+	{padding-bottom: 10px;
+	 margin-right: 20px;}	
+	 
+#tube h3
+	{padding-left: 10px}
+	
+#tube p
+	{padding-left: 10px}
+	
+#tube a
+	{padding-left: 10px}
+	
+	
+#taxi
+	{border:solid}
+	
+#taxi
+	{width: 279px;
+	 height: 420;}
+	 
+#taxi
+	{padding-bottom: 10px;
+	 margin-right: 20px;}
+	 
+#taxi h3
+	{padding-left: 10px}
+	
+#taxi p
+	{padding-left: 10px}
+	
+#taxi a
+	{padding-left: 10px}
+	
+
+	
+#uber
+	{border:solid}
+	
+#uber
+	{width: 279px;
+	 height: 420;}
+
+#uber
+	{padding-bottom: 10px;
+	 margin-right: 20px;}
+	 
+#uber h3
+	{padding-left: 10px}
+	
+#uber p
+	{padding-left: 10px}	 
+	 
+#uber a
+	{padding-left: 10px}	
+	
+	 
+	 
+#air
+	{border:solid}
+	
+#air
+	{width: 279px;
+	 height: 420;}
+
+#air
+	{padding-bottom: 10px;
+	 margin-right: 20px;
+	 margin-top: 20px;}
+	 
+#air h3
+	{padding-left: 10px}
+	
+#air p
+	{padding-left: 10px}
+	
+#air a
+	{padding-left: 10px}
+	
+	
+#met
+	{border:solid}
+	
+#met
+	{width: 279px;
+	 height: 420;}
+
+#met
+	{padding-bottom: 10px;
+	 margin-right: 20px;
+	 margin-top: 20px;}	
+
+#met h3
+	{padding-left: 10px} 
+	
+#met p
+	{padding-left: 10px}
+	
+#met a
+	{padding-left: 10px}
+	
+ 
+	 
+#amb
+	{border:solid}
+	
+#amb
+	{width: 279px;
+	 height: 420;}
+
+#amb
+	{padding-bottom: 10px;
+	 margin-right: 20px;
+	 margin-top: 20px;}
+	 
+#amb h3
+	{padding-left: 10px}
+	
+#amb p
+	{padding-left: 10px}
+	
+#amb a
+	{padding-left: 10px}
+	
+
+
+	
+#fire
+	{border:solid}
+	
+#fire
+	{width: 279px;
+	 height: 420;}
+
+#fire
+	{padding-bottom: 10px;
+	 margin-right: 20px;
+	 margin-top: 20px;}	 
+	 
+#fire h3
+	{padding-left: 10px}
+	
+#fire p
+	{padding-left: 10px}
+
+#fire a
+	{padding-left: 10px}
+ 	 
+	 
+#mail
+	{border:solid}
+	
+#mail
+	{width: 279px;
+	 height: 420;}
+
+#mail
+	{padding-bottom: 10px;
+	 margin-right: 20px;
+	 margin-top: 20px;}	 
+	 
+#mail h3
+	{padding-left: 10px}
+	
+#mail p
+	{padding-left: 10px}
+	 
+#mail a
+	{padding-left: 10px}
+	 
+
+	 
+#tesco
+	{border:solid}
+	
+#tesco
+	{width: 279px;
+	 height: 420;}
+
+#tesco
+	{padding-bottom: 10px;
+	 margin-right: 20px;
+	 margin-top: 20px;}
+	 
+#tesco h3
+	{padding-left: 10px}
+	
+#tesco p
+	{padding-left: 10px}
+	
+#tesco a
+	{padding-left: 10px}
+	
+
+
+#argos
+	{border:solid}
+	
+#argos
+	{width: 279px;
+	 height: 420;}
+
+#argos
+	{padding-bottom: 10px;
+	 margin-right: 20px;
+	 margin-top: 20px;}
+	 
+#argos h3
+	{padding-left: 10px}
+	
+#argos p
+	{padding-left: 10px}
+	
+#argos a
+	{padding-left: 10px}
+	 	 
+#asda
+	{border:solid}
+	
+#asda
+	{width: 279px;
+	 height: 420;}
+
+#asda
+	{padding-bottom: 10px;
+	 margin-right: 20px;
+	 margin-top: 20px;}
+	 
+#asda h3
+	{padding-left: 10px}
+	
+#asda p
+	{padding-left: 10px}
+	
+#asda a
+	{padding-left: 10px}
+	
+	 	 
+
+#sains
+	{border:solid}
+	
+#sains
+	{width: 279px;
+	 height: 420;}
+
+#sains
+	{padding-bottom: 10px;
+	 margin-right: 20px;
+	 margin-top: 20px;}
+	 
+#sains h3
+	{padding-left: 10px}
+	
+#sains p
+	{padding-left: 10px}
+	
+#sains a
+	{padding-left: 10px}
+	 	 
+
+#police
+	{border:solid}
+	
+#police
+	{width: 279px;
+	 height: 420;}
+
+#police
+	{padding-bottom: 10px;
+	 margin-right: 20px;
+	 margin-top: 20px;}
+	 
+#police h3
+	{padding-left: 10px}
+	
+#police p
+	{padding-left: 10px}
+	
+#police a
+	{padding-left: 10px}
+	 	 
